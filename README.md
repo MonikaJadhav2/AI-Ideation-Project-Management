@@ -51,7 +51,7 @@ Sync to Database + Analytics Record Update
 
 (Add screenshots here in /assets/images)
 
-👥 Project Team Member Exam No. Role Swayam Ritesh Ingle — Developer Monika Rajendra Jadhav — Developer Tejas Lahu Kamble — Developer Komal Mahadev Narawade — Lead Developer
+👥 Project Team Member:. Swayam Ritesh Ingle — Developer | Monika Rajendra Jadhav — Lead Developer | Tejas Lahu Kamble — Developer | Komal Mahadev Narawade — Developer
 
 Guide: Prof. Anoop Kushwaha College: Alard College of Engineering & Management, Pune University: Savitribai Phule Pune University (SPPU)
 
